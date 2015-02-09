@@ -1,0 +1,23 @@
+# Generated files
+.tmp
+.tests
+dist
+build
+
+# NodeJS and NPM
+node_modules
+lib-cov
+*.seed
+*.log
+*.out
+*.pid
+npm-debug.log
+
+# Miscellaneous
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+.node_history

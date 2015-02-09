@@ -1,0 +1,32 @@
+{
+  "name": "shipit-submodule",
+  "version": "1.0.0",
+  "description": "Shipit plugin for download git submodules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terox/shipit-submodule.git"
+  },
+  "keywords": [
+    "shipit",
+    "git",
+    "submodule",
+    "recursive"
+  ],
+  "author": {
+    "name": "David Pérez Terol",
+    "email": "davidtxnet@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terox/shipit-submodule/issues"
+  },
+  "homepage": "https://github.com/terox/shipit-submodule",
+  "dependencies": {
+    "bluebird": "^2.9.7",
+    "chalk": "^0.5.1"
+  }
+}
