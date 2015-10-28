@@ -20,6 +20,7 @@ submodules: true
 ```js
 module.exports = function (shipit) {
   require('shipit-deploy')(shipit);
+  require('shipit-submodule')(shipit);
 
   shipit.initConfig({
     default: {
